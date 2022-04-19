@@ -1,4 +1,4 @@
 (fp_lib_table
   (lib (name "Pmod")(type "KiCad")(uri "${KIPRJMOD}/Pmod.pretty")(options "")(descr ""))
-  (lib (name "Mod")(type "KiCad")(uri "/home/hoang/Desktop/pmod/Mod.pretty")(options "")(descr ""))
+  (lib (name "Mod")(type "KiCad")(uri "${KIPRJMOD}/Mod.pretty")(options "")(descr ""))
 )
